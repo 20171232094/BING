@@ -1,0 +1,5 @@
+	教师界面所有的类和活动都在TeaMAIN文件夹中，所有图片在drawable中。
+	TeaOrdUSerFragment是教师个人信息碎片，对应布局tea_orduser_layout。
+	TeaShuJuFragment是学生活动数据界面，对应布局tea_shuju_layout。
+	CreateClass是创建班级界面。
+	InsertStudent是插入学生界面。
